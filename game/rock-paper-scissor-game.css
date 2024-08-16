@@ -1,0 +1,18 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+.title{
+    font-size: 30px;
+    font-weight: 50px;
+}
+.move-icon{
+    height:50px;
+}
+.move-button{
+
+    border:3px solid greenyellow;
+   cursor:pointer;
+    margin-right: 10px;
+}
